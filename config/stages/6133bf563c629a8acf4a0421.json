@@ -1,0 +1,21 @@
+{
+  "containerId": "6133bf4e3c629a8acf4a0420",
+  "title": "Stage 1",
+  "abiValidations": "$$LOOKUP",
+  "task": "$$LOOKUP",
+  "details": "$$LOOKUP",
+  "id": "6133bf563c629a8acf4a0421",
+  "type": "CodeStage",
+  "language": "solidity",
+  "languageVersion": "0.7.5",
+  "testFramework": "truffle_with_mocha",
+  "codeFileIds": [
+    "6133bf563c629a8acf4a0422",
+    "6133bf563c629a8acf4a0423",
+    "6133bf563c629a8acf4a0424"
+  ],
+  "position": 0,
+  "youtubeId": null,
+  "forkBlockNumber": null,
+  "src": null
+}
