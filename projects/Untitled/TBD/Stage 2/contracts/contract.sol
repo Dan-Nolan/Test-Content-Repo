@@ -2,5 +2,5 @@
 pragma solidity ^0.7.5;
 
 contract Contract {
-	bool public a = false;
+	bool public a = true;
 }
